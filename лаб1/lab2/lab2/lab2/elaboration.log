@@ -1,0 +1,39 @@
+Active-HDL 10.3.3559.6081  2015-01-19 13:30:14
+
+Elaboration top modules:
+Architecture                  \all\(\all\)
+
+
+-------------------------------------------------------------------------------------------
+Entity   | Architecture | Library | Info | Compiler Version          | Compilation Options
+-------------------------------------------------------------------------------------------
+\all\    | \all\        | lab2    |      | 10.3.3559.6081  (Windows) | -O3
+A2       | A2           | lab2    |      | 10.3.3559.6081  (Windows) | -O3
+tst_gen  | tst_gen      | lab2    |      | 10.3.3559.6081  (Windows) | -O3
+N        | N            | lab2    |      | 10.3.3559.6081  (Windows) | -O3
+-------------------------------------------------------------------------------------------
+
+-------------------------------------------------------------------------------------------
+VHDL Package            | Library | Info | Compiler Version          | Compilation Options
+-------------------------------------------------------------------------------------------
+standard                | std     |      |                           | <unavailable>
+TEXTIO                  | std     |      | 10.3.3559.6081  (Windows) |  -2008
+std_logic_1164          | ieee    |      | 10.3.3559.6081  (Windows) |  -2008
+std_logic_arith         | ieee    |      | 10.3.3559.6081  (Windows) | <unavailable>
+STD_LOGIC_SIGNED        | ieee    |      | 10.3.3559.6081  (Windows) | <unavailable>
+STD_LOGIC_UNSIGNED      | ieee    |      | 10.3.3559.6081  (Windows) | <unavailable>
+-------------------------------------------------------------------------------------------
+
+-------------------------------------------------------------------------------------------
+Library                 | Comment
+-------------------------------------------------------------------------------------------
+ieee                    | Standard IEEE packages library
+lab2                    | None
+std                     | Standard VHDL library
+-------------------------------------------------------------------------------------------
+
+
+Simulation Options: asim -O5 +access +r +m+\all\ \all\ \all\
+
+
+The performance of simulation is reduced. Version Student Edition

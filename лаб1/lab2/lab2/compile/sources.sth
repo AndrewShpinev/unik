@@ -1,0 +1,17 @@
+[DRC Time]
+d:\zolnikov\aldec\lab2\lab2\src\all.bde=D
+[Files List]
+C:\Aldec\Active-HDL-Student-Edition\vlib\std/src/standard.vhd=S
+C:\Aldec\Active-HDL-Student-Edition\vlib\std/src/textio.vhd=S
+C:\Aldec\Active-HDL-Student-Edition\vlib\ieee/src/std_logic_1164.vhdl=S
+C:\Aldec\Active-HDL-Student-Edition\vlib\ieee/src/std_logic_1164-body.vhdl=S
+C:\Aldec\Active-HDL-Student-Edition\vlib\ieee/src/arith_p.vhd=S
+C:\Aldec\Active-HDL-Student-Edition\vlib\ieee/src/arith_b.vhd=S
+C:\Aldec\Active-HDL-Student-Edition\vlib\ieee/src/signed_p.vhd=S
+C:\Aldec\Active-HDL-Student-Edition\vlib\ieee/src/signed_b.vhd=S
+C:\Aldec\Active-HDL-Student-Edition\vlib\ieee/src/unsigned_p.vhd=S
+C:\Aldec\Active-HDL-Student-Edition\vlib\ieee/src/unsigned_b.vhd=S
+d:\zolnikov\aldec\lab2\lab2/src/N.vhd=S
+d:\zolnikov\aldec\lab2\lab2/src/tst_gen.vhd=S
+d:\zolnikov\aldec\lab2\lab2/src/A2.vhd=S
+d:\zolnikov\aldec\lab2\lab2/compile/all.vhd=S

@@ -1,0 +1,65 @@
+[Project]
+Current Flow=Multivendor
+VCS=0
+version=3
+Current Config=compile
+
+[Configurations]
+compile=lab2
+
+[Library]
+lab2=.\lab2\lab2.lib
+
+[Settings]
+AccessRead=0
+AccessReadWrite=0
+AccessACCB=0
+AccessACCR=0
+AccessReadWriteSLP=0
+AccessReadTopLevel=1
+DisableC=1
+ENABLE_ADV_DATAFLOW=0
+FLOW_TYPE=HDL
+LANGUAGE=VHDL
+REFRESH_FLOW=1
+FLOWTOOLS=ONLY_IMPL
+ON_SERVERFARM_SYNTH=0
+ON_SERVERFARM_IMPL=0
+ON_SERVERFARM_SIM=0
+DVM_DISPLAY=NO
+
+[LocalVerilogSets]
+EnableSLP=1
+EnableDebug=0
+
+[LocalVhdlSets]
+CompileWithDebug=0
+
+[$LibMap$]
+lab2=.
+Active_lib=
+
+[IMPLEMENTATION]
+UCF=
+
+[Files]
+/A2.vhd=-1
+/N.vhd=-1
+/tst_gen.vhd=-1
+/all.bde=-1
+
+[Files.Data]
+.\src\A2.vhd=VHDL Source Code
+.\src\N.vhd=VHDL Source Code
+.\src\tst_gen.vhd=VHDL Source Code
+.\src\all.bde=Block Diagram
+.\compile\all.vhd=VHDL Source Code
+
+[SpecTracer]
+WindowVisible=0
+[HierarchyViewer]
+HierarchyInformation=
+ShowHide=ShowTopLevel
+Selected=
+[file_out:/all.bde]
+/..\compile\all.vhd=-1

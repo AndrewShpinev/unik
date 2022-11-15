@@ -1,0 +1,1 @@
+-w -erf d:/zolnikov/aldec/lab2/lab2/compile/lab2.erf -d d:/zolnikov/aldec/lab2/lab2/compile -s d:/zolnikov/aldec/lab2/library.cfg -j d:/zolnikov/aldec/lab2/lab2/projlib.cfg -work lab2 -O3 -e 100 -work lab2 -2002 ./../compile/all.vhd 
